@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://salted-code.github.io
+title: Salted
+email: stus.basia@gmail.com
+author: Basia
+description: Web design and development blog
+paginate: 10
+google_analytics: 
